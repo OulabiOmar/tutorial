@@ -7,3 +7,4 @@ if (amount < 10){
 }
 
 console.log("hi first app here!!")
+console.log("adding new code to commit to github test");
